@@ -8,7 +8,8 @@
 
 body{
     height: 100vh;
-    background: #000115;
+    /* background: #000115; */
+    background: #f72c04;
     cursor: none;
     display: flex;
     justify-content: center;
